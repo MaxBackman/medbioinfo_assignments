@@ -1,0 +1,7 @@
+check paper in Zotero for distribution of nucleotides in DNA
+FASTA-format
+
+Accession ID
+Definition: A unique alphanumeric character string that is used to unambiguously identify a particular record in a database. 
+Examples include MGI accession IDs, GenBank accession IDs, and PubMed accession IDs.
+

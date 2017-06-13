@@ -1,0 +1,13 @@
+cd - change directory
+ls - listing
+mkdir - make directory
+rm - remove
+cat - concatenate (prints the contents of files one after another)
+less - (displays a screenful of the file, and then stops. You can go forward one screenful by pressing the spacebar, or back one by pressing b. Press q to quit.)
+head - get the first few lines in a file ('-n 3' will give first 3 lines etc)
+tail - 
+wc - word count
+grep - 
+sort - 
+uniq - 
+cut - 
